@@ -17,7 +17,6 @@
         <p><a>href="" Hvad siger du mark hvad skal vi gøre?</a></p>
 
         <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
-        525252
         </asp:ContentPlaceHolder>
     </div>
     </form>
