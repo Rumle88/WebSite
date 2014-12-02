@@ -4,7 +4,7 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
-    <title style="color:blue; width:300px; height:100px";>Welcome to our WebSite</title>
+    <title style="width:300px; height:100px";>Welcome to our WebSite</title>
     <asp:ContentPlaceHolder ID="head" runat="server">
     </asp:ContentPlaceHolder>
 </head>
@@ -12,9 +12,6 @@
 <body>
     <form id="form1" runat="server">
     <div>
-
-        href 
-        <p><a>href="" Hvad siger du mark hvad skal vi gøre?</a></p>
 
         <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
       hello world
